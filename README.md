@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brian Langay
 
-**Founder & Engineer** at [**Opencat Devs**](https://github.com/brian-Lab-0)  
+**Founder & Engineer** at [**Openbnet Spaces**](https://spaces.openbnet.com)  
 Building production-ready, scalable, and open-source distributed systems.
 
 <div align="center">
