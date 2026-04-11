@@ -12,25 +12,6 @@ Building production-ready, scalable, and open-source distributed systems.
 
 ---
 
-## 🚀 About Me
-
-I'm a software engineer specializing in **real-time infrastructure**, **distributed systems**, and **high-performance backends**. I focus on building systems that are **production-ready from day one**—not just proofs of concept.
-
-```go
-type Engineer struct {
-    Focus      []string{"Real-time Systems", "Backend Infrastructure", "Distributed Apps"}
-    Philosophy string("Production-first, architecture-driven, performance-conscious")
-    OpenSource bool(true)
-}
-```
-
-- 💻 Full-stack & systems engineer with production deployment experience
-- 🌍 Open-source advocate building tools for the community
-- 🚀 Passionate about **clean architecture**, **scalability**, and **observability**
-- 🧠 Designing systems that handle real-world load and complexity
-
----
-
 ## 🛠️ Tech Stack & Expertise
 
 ### Languages & Frameworks
@@ -60,22 +41,6 @@ type Engineer struct {
 </tr>
 </table>
 
-### Real-Time & Networking Expertise
-
-**Custom Chat Server (Go)**
-- Designed for 10K+ concurrent connections
-- Stable long-lived WebSocket connections
-- Production-hardened with proper error handling, reconnection logic, and monitoring
-
-**Multi-Language Signaling Servers**
-- **JavaScript/TypeScript** (Node.js + Socket.IO) for rapid development
-- **Rust** implementation for performance-critical deployments
-- Used for WebRTC call setup, peer coordination, and real-time messaging
-
-**Additional Real-Time Tech**
-- WebSocket & Socket.IO protocols
-- Kafka for event streaming
-- FRP/Tunneling for secure remote access
 
 ---
 
@@ -91,91 +56,6 @@ type Engineer struct {
 
 ---
 
-## 🏗️ Featured Projects
-
-### 🔹 Real-Time Communication Infrastructure
-
-**Go-Based Chat Server**
-- Production-grade architecture with proper connection pooling
-- Handles thousands of concurrent users with sub-100ms latency
-- Built-in observability with metrics and structured logging
-
-**WebRTC Signaling Servers**
-- JavaScript implementation: Rapid prototyping, easy deployment
-- Rust implementation: 40% lower latency, minimal resource usage
-- Battle-tested in production video calling applications
-
-### 🔹 Distributed Data Systems
-
-**Image & Metadata Pipeline**
-- HDFS-backed storage for millions of images
-- Real-time bounding box predictions with ML integration
-- Geo-location aware datasets with spatial indexing
-- Designed for terabyte-scale data processing
-
-### 🔹 Enterprise Applications
-
-**Student Management Platform**
-- Role-based access control (RBAC) with JWT authentication
-- Separate dashboards for teachers, students, and administrators
-- RESTful APIs with comprehensive Swagger documentation
-- PostgreSQL with optimized query patterns for sub-second response times
-
----
-
-## 💡 Design Philosophy
-
-I build software guided by these principles:
-
-```
-🎯 Production-First
-   └─ Every line of code should be deployable to real users
-
-🧩 Clean Architecture
-   └─ Maintainable, testable, and understandable by others
-
-⚡ Performance Matters
-   └─ Measure everything, optimize what counts
-
-🌍 Open Source
-   └─ Share knowledge, build in public, lift others up
-
-🔒 Security by Design
-   └─ Authentication, authorization, and encryption from day one
-```
-
----
-
-## 📈 Current Focus
-
-- 🔨 Building next-generation real-time collaboration tools
-- 🚀 Contributing to open-source distributed systems
-- 📚 Exploring Rust for system-level performance optimization
-- 🌐 Scaling WebSocket infrastructure for 100K+ concurrent users
-
----
-
-## 📂 GitHub Accounts
-
-- **🔗 Current Account:** [@brian-Lab-0](https://github.com/brian-Lab-0)
-- **📚 Archive & History:** [@brianlangay4](https://github.com/brianlangay4?tab=repositories)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-
-- **Real-time systems** and WebSocket infrastructure
-- **Distributed backends** with high availability requirements
-- **Open-source projects** that solve real problems
-- **Performance optimization** challenges
-
-**Found something interesting?** Feel free to ⭐ star repos, 🍴 fork for your own use, or 📝 open an issue to discuss improvements.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brian@opencatdevs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brianlangay)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brianlangay)
 
